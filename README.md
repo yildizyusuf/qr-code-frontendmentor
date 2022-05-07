@@ -13,11 +13,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 I have learned how to allign items, texts, images and etc.
-Implemented images to the index file
-Added variables as colors to memorize and call them quickly when needed
-Used justify, flex to allign items in order
-Called the text from a link without needing to download it
-Made it mobile friendly by marking the max width and the @media
+
+Implemented images to the index file.
+
+Added variables as colors to memorize and call them quickly when needed.
+
+Used justify, flex to allign items in order.
+
+Called the "font" from a link without needing to download it.
+
+Made it mobile friendly by marking the max width and the @media.
 
 ```html
 <h1>CSS Code</h1>
